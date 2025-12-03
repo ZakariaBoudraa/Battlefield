@@ -1,4 +1,4 @@
-package assignment1;
+package components;
 
 public class Tile {
     private boolean isCastle;

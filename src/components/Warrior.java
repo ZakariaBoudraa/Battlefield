@@ -1,4 +1,4 @@
-package assignment1;
+package components;
 
 public abstract class Warrior extends Fighter {
     private int requiredSkillPoints;

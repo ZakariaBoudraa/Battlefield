@@ -1,4 +1,4 @@
-package assignment1;
+package components;
 
 public class Lanceforged extends Warrior {
     public static double BASE_HEALTH;

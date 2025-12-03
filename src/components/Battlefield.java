@@ -1,4 +1,4 @@
-package assignment1;
+package components;
 
 import java.awt.*;
 import java.awt.event.*;

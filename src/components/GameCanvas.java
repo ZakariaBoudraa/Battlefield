@@ -1,4 +1,4 @@
-package assignment1;
+package components;
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Font;

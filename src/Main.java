@@ -1,4 +1,4 @@
-import assignment1.*;
+import components.*;
 
 public class Main {
     public static void main(String[] args) {

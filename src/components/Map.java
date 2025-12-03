@@ -1,4 +1,4 @@
-package assignment1;
+package components;
 /*
  * Map class that generates the layout
  * Author: Lili Wei + Giulia Alberini

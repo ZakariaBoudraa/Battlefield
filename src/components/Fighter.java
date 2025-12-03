@@ -1,4 +1,4 @@
-package assignment1;
+package components;
 
 public abstract class Fighter {
     private Tile position;

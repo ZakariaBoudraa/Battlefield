@@ -1,4 +1,4 @@
-package assignment1;
+package components;
 
 public class Monster extends Fighter {
     private int rageLevel;
