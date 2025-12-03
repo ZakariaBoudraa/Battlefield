@@ -3,14 +3,15 @@ This project is a small strategic battlefield game built in Java, which features
 ## File Structure
 <pre>
   +--- Battlefield
-      +--- out
-      ...
       +--- src
-          +--- assignment1
+          +--- components
               +--- Axebringer.java
               +--- Battlefield.java
               ...
           +--- out
+              +--- Axebringer.class
+              +--- Battlefield.class
+              ...
           +--- battlefield1.iml
           +--- Main.java
       +--- battlefield.iml
@@ -19,7 +20,7 @@ This project is a small strategic battlefield game built in Java, which features
 To run the battlefield UI and play the game, simply execute the following commands once the repository has been cloned on your local machine: 
 <pre>
 cd /Battlefield
-java ./src/assignment1/Battlefield.java
+java ./src/components/Battlefield.java
 </pre>
 
 ## Objective
