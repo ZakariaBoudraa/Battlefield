@@ -16,7 +16,7 @@ This project is a small strategic battlefield game built in Java, which features
       +--- battlefield.iml
       +--- README.md
 </pre>
-To run the battlefield UI and play the game, simply execute the following command once the repository has been cloned on you local machine: 
+To run the battlefield UI and play the game, simply execute the following commands once the repository has been cloned on your local machine: 
 <pre>
 cd /Battlefield
 java ./src/assignment1/Battlefield.java
