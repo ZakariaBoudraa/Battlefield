@@ -1,5 +1,5 @@
 # Battlefield
-This project is a small strategic battlefield game built in Java, which features two towers connected by a path. The goal of this game is to prevent the monsters that are spawning on one tower from reach the second one. The player can place different warriors along the path, each with unique abilities and properties, to eliminate the approaching monsters.
+This project is a small strategic battlefield game built in Java, which features two towers connected by a path. The goal of this game is to prevent the monsters that are spawning on one tower from reaching the second one. The player can place different warriors along the path, each with unique abilities and properties, to eliminate the approaching monsters.
 ## File Structure
 <pre>
   +--- Battlefield
